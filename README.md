@@ -1,19 +1,13 @@
-I have been coding since the start of 2022, I learnt a bit of python when I was studying for cyber security.
-Afterwards I was amazed at what I could create.
-I've still got a long ways to go to becoming proficient, but I'm enjoying every step of the way.
+My passion for technology started when I wanted to be the best pokemon trainer. 
+Now it has evolved into a love for innovation and a curiosity of what is to come; a couple of reasons why I have been bewitched by the field. 
+Because whenever I complete a project or a simple codewars challenge I am always left with this question in mind. 
+“It works, but can it be better?”.  
 
-Currently have learnt:
-1. HTML
-2. CSS
-3. SASS
-4. Javascript
+Aside from fumbling around, I am usually:
+ - reading and discover new book/manga series
+ - walking my dog, watching netflix
+ - brainstorming some fun short story ideas
+ - learning how to draw. 
 
-Online courses completed:
-1. freecodecamp | scientific computing with python
-2. freecodecamp | responsive web design 
-3. freecodecamp | javascript algorithms and data structures
-
-Online Courses i am undertaking:
-The Odin Project
-
-Feedback is always welcome.
+One of my goals is to create an animated short film, but with my current drawing skills, that’ll happen in a couple more centuries. 
+Unless stick figures count, then maybe only a couple of decades.
